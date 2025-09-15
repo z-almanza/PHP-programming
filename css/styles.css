@@ -22,6 +22,13 @@ p {
     font-family: Arial, Helvetica;
 }
 
+blockquote {
+    font-family: Arial, Helvetica;
+    font-style: italic;
+    color: darkslategray;
+    
+}
+
 footer {
     text-align: center;
 }
