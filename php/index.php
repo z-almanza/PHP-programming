@@ -1,6 +1,31 @@
 <?php
+    //Added HTML structure
+    echo '<!DOCTYPE html>
+        <html lang="en">
+
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta name="description" content="This page does not include content assisted by AI tools but will indicate if it does. Professor Herd\'s class articles and W3Schools were used for guidance.">
+            <title>PHP Webpage</title>
+            <link rel="stylesheet" href="../css/styles.css">
+        </head>
+
+        <body>
+
+        <header>
+            <h1>Welcome!</h1>
+        </header>
+        <nav>
+            <a href="../index.html">Welcome</a> |
+            <a href="../index.html#about">About Me</a> |
+            <a href="php/php-info.php">PHP Info</a> |
+            <a href="index.php">PHP Index</a>
+        </nav>
+
+        <main>';
+
     //Welcome Message
-    echo '<link rel="stylesheet" href="../css/styles.css">';
     echo "<h1>Welcome to My Website</h1>";
     echo "<p>Hello! This is my first script using PHP that showcases some fundamentals like syntax, variables, and output.</p>";
 	echo "<p>I am learning PHP through this programming course in order to fulfill a degree requirement.</p>";
@@ -47,6 +72,13 @@
     echo "<h2>Additional Information</h2>";
     echo "<p>My name is " . MY_NAME . "</p>";
 
-    //use PHP superglobal and display current script filename
+    //Use PHP superglobal and display current script filename
     echo "<p>The current script filename is: " . $_SERVER['SCRIPT_NAME'] . "</p>";
+    
+    echo '</main>
+            <footer>
+                <p>&copy; 2025 Zamantha Almanza</p>
+            </footer>
+        </body>
+        </html>';
 ?>
