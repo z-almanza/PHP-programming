@@ -19,8 +19,9 @@
         <nav>
             <a href="../index.html">Welcome</a> |
             <a href="../index.html#about">About Me</a> |
-            <a href="php/php-info.php">PHP Info</a> |
-            <a href="index.php">PHP Index</a>
+            <a href="php-info.php">PHP Info</a> |
+            <a href="index.php">PHP Index</a> |
+            <a href="array.php">PHP Arrays</a>
         </nav>
 
         <main>';

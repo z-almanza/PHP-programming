@@ -19,9 +19,15 @@ section {
 
 main {
     margin: 20px;
+    font-family: Arial, Helvetica;
 }
 
 p {
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica;
+}
+
+li {
     color: rgb(0, 0, 0);
     font-family: Arial, Helvetica;
 }
