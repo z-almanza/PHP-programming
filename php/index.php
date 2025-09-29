@@ -21,7 +21,8 @@
             <a href="../index.html#about">About Me</a> |
             <a href="php-info.php">PHP Info</a> |
             <a href="index.php">PHP Index</a> |
-            <a href="array.php">PHP Arrays</a>
+            <a href="array.php">PHP Arrays</a> |
+            <a href="form.php">PHP Form</a>
         </nav>
 
         <main>';
