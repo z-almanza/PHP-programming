@@ -6,6 +6,7 @@ This is a collection of files for my webpage. Through this PHP course, I will be
 - A php script has been added to show basic PHP understanding of syntax, variables, and output.
 - A php script has been added to create arrays and use loops and conditionals to manipulate the output.
 - A php script has been added to handle form submissions using POST superglobal, as well as loops and conditionals. Additionally, Bootstrap styling implemented. 
+- Template, functions, invoice, and handle-invoice php files added to create a templated layout. Reusable logic implemented. 
 
 
 ### Author Info
