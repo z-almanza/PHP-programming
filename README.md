@@ -8,6 +8,7 @@ This is a collection of files for my webpage. Through this PHP course, I will be
 - A php script has been added to handle form submissions using POST superglobal, as well as loops and conditionals. Additionally, Bootstrap styling implemented. 
 - Template, functions, invoice, and handle-invoice php files added to create a templated layout. Reusable logic implemented. 
 - Advanced sanitation and validation for form handling added. Sticky form implemented.
+- Form validation with file uploads. Validating text and image uploads, saving to text file, and reading text file dynamically onto webpage.
 
 
 ### Author Info
