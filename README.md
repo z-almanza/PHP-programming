@@ -9,6 +9,7 @@ This is a collection of files for my webpage. Through this PHP course, I will be
 - Template, functions, invoice, and handle-invoice php files added to create a templated layout. Reusable logic implemented. 
 - Advanced sanitation and validation for form handling added. Sticky form implemented.
 - Form validation with file uploads. Validating text and image uploads, saving to text file, and reading text file dynamically onto webpage.
+- Calendar page added using different date functions.
 
 
 ### Author Info
@@ -19,4 +20,4 @@ Zamantha Almanza Nava | z-almanza (GitHub) | z_almanza (MyWebTraining)
 ### AI or Source Acknowledgements
 
 Professor Herd's class content, W3Schools, and VSCode line completion.
-This website does not include content assisted by AI tools but will indicate if it does.
+This website does not include content assisted by other AI tools but will indicate if it does.

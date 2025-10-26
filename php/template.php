@@ -21,7 +21,8 @@
         <a href="../index.html">Home Page</a> | <!--Home page to original PHP work without templating-->
         <a href="invoice.php">Invoice</a> | 
         <a href="form-validation.php">Form Validation</a> | 
-        <a href="file-uploads.php">File Uploads</a>
+        <a href="file-uploads.php">File Uploads</a> | 
+        <a href="calendar.php">Calendar</a>
     </nav>
     <main>
 
